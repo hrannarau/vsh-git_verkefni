@@ -31,3 +31,6 @@ Að það eigi að gera það fyrir hvern kóða, a.m.k. hverja 2 eða 3 sem ten
 Working Directory: Það directory sem þú ert að vinna í.
 Staging Area: Staður þar sem hægt er að henda breytur.
 Repository: Geymsla sem geymir upplýsingar um verkefni.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+Þegar maður að ákveða t.d. hvaða liti eru bestir fyrir verkefnið.
