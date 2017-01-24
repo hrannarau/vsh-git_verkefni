@@ -20,3 +20,6 @@
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 Það eru verkefæri sem hjálpa hópi að stjórna breytingar á source code. Geymir allar breytingar á kóðanum.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+Það er mjög auðveld leið til þess að gera flókna hluti við skrár, það er hægt að vinna margir á einni skrá og GIT heldur um allar breyturnar og setur þær saman.
