@@ -13,8 +13,10 @@
 	git diff : Sýnir mismunin á "working tree" og "index"
 	git checkout : Leið til þess að skipta um branch
 
-
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff : Sýnir mismunin á "working tree" og "index"
 	b) git diff --staged  : Sýnir breytingar í "the staged area"
 	c) git diff commit1 commit2 : Sýnir muninn á þessum tvemum commit
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+Það eru verkefæri sem hjálpa hópi að stjórna breytingar á source code. Geymir allar breytingar á kóðanum.
