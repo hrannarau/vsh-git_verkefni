@@ -3,5 +3,12 @@
 	cd : "Change directory", færa þig í aðra möppu
 	cd ~ : Setur þig aftur á root
 	ls : Sýnir skrár og möppur í þar sem þú ert staðsettur
-	pwd : Sýnir leiðina að root
+	pwd : Sýnir slóðina að root
 	mkdir : Býr til nýja möppu
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone : Klónar geymslu yfir í nýja skrá
+	git log : Sýnir öll commit skilaboðin sem þú bjóst til
+	git status : Sýnir slóðir sem eru öðruvísi á milli "the index file" og "the current HEAD commit"
+	git diff : Sýnir mismunin á "working tree" og "index"
+	git checkout : Leið til þess að skipta um branch
