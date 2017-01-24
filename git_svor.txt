@@ -1,1 +1,7 @@
 #Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd : "Change directory", færa þig í aðra möppu
+	cd ~ : Setur þig aftur á root
+	ls : Sýnir skrár og möppur í þar sem þú ert staðsettur
+	pwd : Sýnir leiðina að root
+	mkdir : Býr til nýja möppu
