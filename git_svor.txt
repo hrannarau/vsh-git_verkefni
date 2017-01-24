@@ -34,3 +34,6 @@ Repository: Geymsla sem geymir upplýsingar um verkefni.
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 Þegar maður að ákveða t.d. hvaða liti eru bestir fyrir verkefnið.
+
+9.	Hver fann upp GIT?
+Linus Torvalds bjó GIT til.
